@@ -25,7 +25,7 @@ body {
     width: min(80vw, 700px);
     height: min-content;
     background: rgb(62, 22, 96);
-    background: linear-gradient(55deg, #0e2f7c 0%, #091533 100%);
+    background: linear-gradient(55deg, #D09FFF 0%, #31035E 100%);
     border-radius: 20px;
     display: flex;
     flex-direction: column;
