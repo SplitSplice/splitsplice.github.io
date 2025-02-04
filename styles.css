@@ -90,8 +90,8 @@ body {
     margin: 5px;
     transition: 0.5s;
     cursor: pointer;
-    -webkit-filter: drop-shadow(#2495d4 1px 0 7px);
-    filter: drop-shadow(#2495d4 1px 0 7px);
+    -webkit-filter: drop-shadow(#AD6BFF 1px 0 7px);
+    filter: drop-shadow(#AD6BFF 1px 0 7px);
 }
 
 .icon:hover {
