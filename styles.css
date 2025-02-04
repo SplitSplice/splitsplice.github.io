@@ -15,7 +15,7 @@ body {
     left: 0;
     margin: 0;
     overflow: hidden;
-    background-color: linear-gradient(45deg, #353535, #181818);
+    background-color: linear-gradient(45deg, #353535 0%, #181818 100%);
     display: flex;
     align-items: center;
     justify-content: center;
