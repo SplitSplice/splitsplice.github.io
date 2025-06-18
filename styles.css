@@ -118,6 +118,10 @@ body {
     background-image: url("assets/reddit.svg");
 }
 
+.icon.dtawav {
+    background-image: url("assets/dtawav.svg");
+}
+
 #credit {
     position: absolute;
     left: 5px;
