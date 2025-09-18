@@ -118,6 +118,10 @@ body {
     background-image: url("assets/reddit.svg");
 }
 
+.icon.zenith {
+    background-image: url("assets/zenith.png");
+}
+
 .icon.dtawav {
     background-image: url("assets/dtawav.svg");
 }
@@ -191,3 +195,4 @@ body {
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
 }
+
