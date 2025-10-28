@@ -118,6 +118,10 @@ body {
     background-image: url("assets/reddit.svg");
 }
 
+.icon.rblxshop {
+    background-image: url("assets/rblxshop.png");
+}
+
 .icon.zenith {
     background-image: url("assets/zenith.png");
 }
